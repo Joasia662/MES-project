@@ -1,0 +1,11 @@
+C:\Users\asiac\Desktop\MES_Project\Projekt1\obj\Debug\netcoreapp3.1\Projekt1.csprojAssemblyReference.cache
+C:\Users\asiac\Desktop\MES_Project\Projekt1\obj\Debug\netcoreapp3.1\Projekt1.AssemblyInfoInputs.cache
+C:\Users\asiac\Desktop\MES_Project\Projekt1\obj\Debug\netcoreapp3.1\Projekt1.AssemblyInfo.cs
+C:\Users\asiac\Desktop\MES_Project\Projekt1\bin\Debug\netcoreapp3.1\Projekt1.exe
+C:\Users\asiac\Desktop\MES_Project\Projekt1\bin\Debug\netcoreapp3.1\Projekt1.deps.json
+C:\Users\asiac\Desktop\MES_Project\Projekt1\bin\Debug\netcoreapp3.1\Projekt1.runtimeconfig.json
+C:\Users\asiac\Desktop\MES_Project\Projekt1\bin\Debug\netcoreapp3.1\Projekt1.runtimeconfig.dev.json
+C:\Users\asiac\Desktop\MES_Project\Projekt1\bin\Debug\netcoreapp3.1\Projekt1.dll
+C:\Users\asiac\Desktop\MES_Project\Projekt1\bin\Debug\netcoreapp3.1\Projekt1.pdb
+C:\Users\asiac\Desktop\MES_Project\Projekt1\obj\Debug\netcoreapp3.1\Projekt1.dll
+C:\Users\asiac\Desktop\MES_Project\Projekt1\obj\Debug\netcoreapp3.1\Projekt1.pdb
